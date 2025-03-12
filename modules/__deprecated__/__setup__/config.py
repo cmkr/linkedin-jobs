@@ -1,15 +1,3 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-'''
 
 
 ############### OLD CONFIG FILE - FOR REFERENCE FOR DEVELOPERS - DO NOT USE #################
@@ -138,9 +126,9 @@ state = "STATE"
 zipcode = "12345"
 country = "Will Let You Know When Established"
 
-first_name = "Sai"                 # Your first name in quotes Eg: "First", "Sai"
-middle_name = "Vignesh"            # Your name in quotes Eg: "Middle", "Vignesh", ""
-last_name = "Golla"                # Your last name in quotes Eg: "Last", "Golla"
+first_name = "Monish"                 # Your first name in quotes Eg: "First", "Monish"
+middle_name = "Kuamr"            # Your name in quotes Eg: "Middle", "Kumar", ""
+last_name = "Chintha"                # Your last name in quotes Eg: "Last", "Chintha"
 
 # Your LinkedIn headline in quotes Eg: "Software Engineer @ Google, Masters in Computer Science", "Recent Grad Student @ MIT, Computer Science"
 headline = "Headline"
@@ -267,19 +255,3 @@ generated_resume_path = "all resumes/"
 
 
 
-############################################################################################################
-'''
-THANK YOU for using my tool 😊! Wishing you the best in your job hunt 🙌🏻!
-
-Sharing is caring! If you found this tool helpful, please share it with your peers 🥺. Your support keeps this project alive.
-
-Support my work on <PATREON_LINK>. Together, we can help more job seekers.
-
-As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact.
-
-Your support, whether through donations big or small or simply spreading the word, means the world to me and helps keep this project alive and thriving.
-
-Gratefully yours 🙏🏻,
-Sai Vignesh Golla
-'''
-############################################################################################################

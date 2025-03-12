@@ -162,7 +162,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
   2. Examples for proper attestation:
   New feature example
   ```python
-  ##> ------ Sai Vignesh Golla : godsscion - Feature ------
+  ##> ------ Monish: godsscion - Feature ------
   def alert_box(title: str, message: str) -> None:
     '''
     Shows an alert box with the given `title` and `message`.
@@ -181,7 +181,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
     '''
     from pyautogui import alert
 
-  ##> ------ Sai Vignesh Golla : saivigneshgolla@outlook.com - Bug fix ------
+  ##> ------ Monish : monishkumarreddy17@outlook.com - Bug fix ------
     return alert(message, title)
   ##<
   ```
@@ -255,30 +255,12 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
 
 ## ✉️ My Heartfelt letter to you ❤️...
 
-My Dear User,
-
-Thank you for using the job application tool! Your support means everything to me. 
-
-As you continue your job search, I hope this tool has provided you with valuable assistance and streamlined your efforts.
-
-To continue improving and maintaining this tool, I rely on the support of users like you. If you believe in its mission and want to contribute, you can support me by sharing about this project with your peers and network.
-
-If you need a post to communicate about it: https://www.linkedin.com/posts/saivigneshgolla_jobsearch-jobapplication-careerdevelopment-activity-7166416367628341249-WE_8
-
-By doing so, you can empower others in their job hunt, just as you've been empowered.. Every contribution, big or small, makes a significant impact!
-
-As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact. Your support, whether through donations or simply spreading the word, means the world to me and helps keep this project alive and thriving.
-
-You can connect and reach me out at:
-- LinkedIn  :  https://www.linkedin.com/in/saivigneshgolla/
-- Email     :  saivigneshgolla@outlook.com
-
 <br>
 
 Thank you for being part of this journey, and remember that together, we can make a real difference in the lives of job seekers worldwide.
 
 With heartfelt appreciation, <br>
-**Sai Vignesh Golla**
+**Monish**
 
 <br>
 <br>
@@ -372,7 +354,7 @@ Please consider the following:
 
 ## ⚖️ License
 
-Copyright (C) 2024 Sai Vignesh Golla  <saivigneshgolla@outlook.com>
+Copyright (C) 2024 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -390,27 +372,14 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 <br>
 
 ## 🐧 Socials
-- **LinkedIn** : https://www.linkedin.com/in/saivigneshgolla/
-- **Email**    : saivigneshgolla@outlook.com
+- **LinkedIn** : 
+- **Email**    : 
 - **X/Twitter**: https://x.com/gods_scion
 - **Discord**  : godsscion
-
-
-## 🙌 Community Support and Discussions
-- **Discord Server** : https://discord.gg/fFp7uUzWCY
-alternate link: https://discord.gg/ykfDjRFB
-- **GitHub**
-    - [All Discussions](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions)
-    - [Announcements](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/announcements)
-    - [General](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/general)
-    - [Feature requests or Ideas](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/feature-requests-or-ideas)
-    - [Polls](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/polls)
-    - [Community Flex](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/community-flex)
-    - [Support Q&A](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/support-q-a)
-
 
 #### ℹ️ Version: 24.12.29.12.30 Stable Preview
 
 ---
 
 [back to the top](#linkedin-ai-auto-job-applier-)
+# linkedin-jobs.git

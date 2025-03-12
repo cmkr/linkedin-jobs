@@ -1,18 +1,3 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-version:    24.12.29.12.30
-'''
-
-
 # Imports
 import os
 import csv
@@ -1084,7 +1069,7 @@ def main() -> None:
             "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford",
             "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
             ])
-        msg = f"\n{quote}\n\n\nBest regards,\nSai Vignesh Golla\nhttps://www.linkedin.com/in/saivigneshgolla/\n\n"
+        msg = f"\n{quote}\n\n\nBest regards,\nMonishkumar Chintha\nwww.linkedin.com/in/monish-cmkr/\n\n"
         pyautogui.alert(msg, "Exiting..")
         print_lg(msg,"Closing the browser...")
         if tabs_count >= 10:
